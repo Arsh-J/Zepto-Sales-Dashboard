@@ -1,1 +1,2 @@
 # Zepto-Sales-Dashboard
+Welcome to the Zepto Sales Dashboard! This interactive, Excel-based dashboard allows you to analyze and visualize sales data effortlessly. It’s designed to provide sales teams and business stakeholders with key insights into sales performance, trends, and product performance. With an intuitive design and easy-to-use interface, this dashboard helps you make data-driven decisions and track your business’s sales performance in real-time.
